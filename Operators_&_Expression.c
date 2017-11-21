@@ -49,10 +49,10 @@ int main()
  
     return 0;
 }
-Output:
+/*Output:
 a is greater than b
 a is greater than or equal to b
 a is greater than or equal to b
 a is greater than b
-a and b are not equal
+a and b are not equal*/
 a is not equal to b
