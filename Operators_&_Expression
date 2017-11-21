@@ -1,4 +1,4 @@
-C language offers many types of operators. They are,
+/*C language offers many types of operators. They are,
 Arithmetic operators (+,-,*,/,%)
 Assignment operators (=)
 Relational operators (==,!=, >,>=,<,<=)
@@ -8,7 +8,7 @@ Conditional operators (ternary operators)
 Increment/decrement operators(++,--)
 Special operators
 
-Sample program for demonstrating Relational operator.
+Sample program for demonstrating Relational operator.*/
 Source code:
 
 #include <stdio.h> 
