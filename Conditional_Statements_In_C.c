@@ -29,7 +29,7 @@ int main()
 
     return 0;
 }
-Output:
+/*Output:
 Enter an integer: -2
 You entered -2.
 The if statement is easy.
@@ -62,10 +62,10 @@ int main()
         printf("%d is an odd integer.",number);
     return 0;
 }
-Output:
+/*Output:
 
 Enter an integer: 7
-7 is an odd integer.
+7 is an odd integer.*/
 
 /*Nested if...else statement (if...elseif....else Statement)
 The nested if...else statement allows you to check for multiple test expressions and execute different codes for more than two conditions.
@@ -121,7 +121,7 @@ int main()
 
     return 0;
 }
-Output:
+/*Output:
 Enter two integers: 12
 23
-Result: 12 < 23
+Result: 12 < 23*/
