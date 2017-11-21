@@ -1,4 +1,4 @@
-A function is a block of code that performs a specific task.
+/*A function is a block of code that performs a specific task.
 Dividing complex problem into small components makes program easy to understand and use.
 
 There are two types of functions in C programming:
@@ -46,7 +46,7 @@ There are two types of functions in C programming:
  Calling a Function:
     To call a function, you simply need to pass the required parameters along with the function name, 
     and if the function returns a value, then you can store the returned value
- 
+ */
  
  Sample program:
  
